@@ -5,6 +5,7 @@
 
 .search-bar input{
 	width:75%;
+	color:black;
 }
 
 .video-item img{
@@ -34,5 +35,8 @@ div{
 }
 
 div.media-heading{
+	color:black;
+}
+input{
 	color:black;
 }
